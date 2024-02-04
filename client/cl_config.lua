@@ -89,10 +89,10 @@ Config.BossMenuZones = {
         { coords = vector3(94.9, -1292.87, 29.27), length = 1.15, width = 2.6, heading = 296.66, minZ = 28.27, maxZ = 30.5 },
     },
     ['pizzathis'] = {
-        { coords = vector3(798.7, -750.58, 31.27), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
+        { coords = vector3(798.7, -750.58, 31.27), length = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
     },
     ['arriba'] = {
-        { coords = vector3(371.23, -332.78, 48.11), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
+        { coords = vector3(371.23, -332.78, 48.11), length = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
     },
 }
 
