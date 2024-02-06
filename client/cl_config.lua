@@ -52,6 +52,12 @@ Config.BossMenus = {
     ['conundrum'] = {
         vector3(319.05, -1080.59, 29.39),
     },
+    ['coolbeans'] = {
+        vector3(-1182.68, -1139.36, 7.83),
+    },
+    ['senoragas'] = {
+        vector3(252.63, 2595.95, 44.9),
+    },
 }
 
 Config.BossMenuZones = {
@@ -99,6 +105,12 @@ Config.BossMenuZones = {
     },
     ['conundrum'] = {
         { coords = vector3(319.05, -1080.59, 29.39), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
+    },
+    ['coolbeans'] = {
+        { coords = vector3(-1182.68, -1139.36, 7.83), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 6.0, maxZ = 8.0},
+    },
+    ['senoragas'] = {
+        { coords = vector3(252.63, 2595.95, 44.9), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 43.0, maxZ = 46.0},
     },
 }
 
