@@ -49,6 +49,9 @@ Config.BossMenus = {
     ['lscustoms'] = {
         vector3(-345.35, -122.8, 39.01),
     },
+    ['conundrum'] = {
+        vector3(319.05, -1080.59, 29.39),
+    },
 }
 
 Config.BossMenuZones = {
@@ -89,10 +92,13 @@ Config.BossMenuZones = {
         { coords = vector3(94.9, -1292.87, 29.27), length = 1.15, width = 2.6, heading = 296.66, minZ = 28.27, maxZ = 30.5 },
     },
     ['pizzathis'] = {
-        { coords = vector3(798.7, -750.58, 31.27), length = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
+        { coords = vector3(798.7, -750.58, 31.27), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
     },
     ['arriba'] = {
-        { coords = vector3(371.23, -332.78, 48.11), length = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
+        { coords = vector3(371.23, -332.78, 48.11), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
+    },
+    ['conundrum'] = {
+        { coords = vector3(319.05, -1080.59, 29.39), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
     },
 }
 
@@ -116,7 +122,10 @@ Config.GangMenus = {
         vector3(425.06, -1512.18, 33.81),
     },
     ['buccetti'] = {
-        vector3(795.71, -766.73, 31.27)
+        vector3(795.71, -766.73, 31.27),
+    },
+    ['knights'] = {
+        vector3(318.85, -1084.42, 29.39),
     },
 }
 
@@ -126,5 +135,8 @@ Config.GangMenuZones = {
     },
     ['buccetti'] = {
         { coords = vector3(795.71, -766.73, 31.27), length = 4.0, width = 4.0, heading = 12.7, minZ = 30.27, maxZ = 32.27},
+    },
+    ['knights'] = {
+        { coords = vector3(318.85, -1084.42, 29.39), length = 4.0, width = 4.0, heading = 99.79, minZ = 28.0, maxZ = 31.0},
     },
 }
