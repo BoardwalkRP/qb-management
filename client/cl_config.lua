@@ -98,19 +98,19 @@ Config.BossMenuZones = {
         { coords = vector3(94.9, -1292.87, 29.27), length = 1.15, width = 2.6, heading = 296.66, minZ = 28.27, maxZ = 30.5 },
     },
     ['pizzathis'] = {
-        { coords = vector3(798.7, -750.58, 31.27), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
+        { coords = vector3(798.7, -750.58, 31.27), length = 1.15, width = 1.0, heading = 180.21, minZ = 30.27, maxZ = 32.27},
     },
     ['arriba'] = {
-        { coords = vector3(371.23, -332.78, 48.11), lenth = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
+        { coords = vector3(371.23, -332.78, 48.11), length = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
     },
     ['conundrum'] = {
-        { coords = vector3(319.05, -1080.59, 29.39), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
+        { coords = vector3(319.05, -1080.59, 29.39), length = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
     },
     ['coolbeans'] = {
-        { coords = vector3(-1182.68, -1139.36, 7.83), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 6.0, maxZ = 8.0},
+        { coords = vector3(-1182.68, -1139.36, 7.83), length = 1.15, width = 1.0, heading = 263.91, minZ = 6.0, maxZ = 8.0},
     },
     ['senoragas'] = {
-        { coords = vector3(252.63, 2595.95, 44.9), lenth = 1.15, width = 1.0, heading = 263.91, minZ = 43.0, maxZ = 46.0},
+        { coords = vector3(252.63, 2595.95, 44.9), length = 1.15, width = 1.0, heading = 263.91, minZ = 43.0, maxZ = 46.0},
     },
 }
 
