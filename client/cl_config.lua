@@ -116,7 +116,7 @@ Config.BossMenuZones = {
         { coords = vector3(252.63, 2595.95, 44.9), length = 1.15, width = 1.0, heading = 263.91, minZ = 43.0, maxZ = 46.0},
     },
     ['burgershot'] = {
-        { coords = vector3(-1192.21, -901.15, 13.93), length = 1.15, width = 1.0, heading = 301.8, minZ = 12.0, maxZ = 14.0},
+        { coords = vector3(-1192.21, -901.15, 13.93), length = 3.0, width = 3.0, heading = 301.8, minZ = 12.0, maxZ = 14.0},
     },
 }
 
