@@ -50,7 +50,7 @@ Config.BossMenus = {
         vector3(-345.35, -122.8, 39.01),
     },
     ['travellerstavern'] = {
-        vector3(319.05, -1080.59, 29.39),
+        vector3(318.62, -1084.59, 29.39),
     },
     ['coolbeans'] = {
         vector3(-1182.68, -1139.36, 7.83),
@@ -106,8 +106,8 @@ Config.BossMenuZones = {
     ['arriba'] = {
         { coords = vector3(371.23, -332.78, 48.11), length = 1.15, width = 1.0, heading = 180.21, minZ = 47.0, maxZ = 49.0},
     },
-    ['conundrum'] = {
-        { coords = vector3(319.05, -1080.59, 29.39), length = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
+    ['travellerstavern'] = {
+        { coords = vector3(318.62, -1084.59, 29.39), length = 1.15, width = 1.0, heading = 263.91, minZ = 28.0, maxZ = 31.0},
     },
     ['coolbeans'] = {
         { coords = vector3(-1182.68, -1139.36, 7.83), length = 1.15, width = 1.0, heading = 263.91, minZ = 6.0, maxZ = 8.0},
