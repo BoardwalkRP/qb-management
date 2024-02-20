@@ -49,7 +49,7 @@ Config.BossMenus = {
     ['lscustoms'] = {
         vector3(-345.35, -122.8, 39.01),
     },
-    ['conundrum'] = {
+    ['travellerstavern'] = {
         vector3(319.05, -1080.59, 29.39),
     },
     ['coolbeans'] = {
