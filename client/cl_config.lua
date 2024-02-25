@@ -61,6 +61,9 @@ Config.BossMenus = {
     ['burgershot'] = {
         vector3(-1192.21, -901.15, 13.93),
     },
+    ['callisto'] = {
+        vector3(400.98, -24.0, 91.94),
+    },
 }
 
 Config.BossMenuZones = {
@@ -117,6 +120,9 @@ Config.BossMenuZones = {
     },
     ['burgershot'] = {
         { coords = vector3(-1192.21, -901.15, 13.93), length = 3.0, width = 3.0, heading = 301.8, minZ = 12.0, maxZ = 14.0},
+    },
+    ['callisto'] = {
+        { coords = vector3(400.98, -24.0, 91.94), length = 3.0, width = 3.0, heading = 301.8, minZ = 12.0, maxZ = 14.0},
     },
 }
 
